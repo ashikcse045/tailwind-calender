@@ -3,7 +3,11 @@
         "1": {
             "name": "বৈশাখ",
             "day": "31",
-            "start": "6"
+            "start": "6",
+            "krishnaAkadoshi": [2, 31],
+            "sukloAkadoshi": [17],
+            "purnima": 21,
+            "omabossa": 6
         },
         "2": {
             "name": "জৈষ্ঠ্য",
